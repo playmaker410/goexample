@@ -3,9 +3,9 @@ import ("fmt")
 
 func main(){
 
-var name1 string = "Ada"
+var name1 string = "GOLANG too hard"
 var name2 string = "Chiemerie"
-var age1 int =10
+var age1 int =500
 var age2 int = 20
 var price,size,age,health int = 150, 20 ,40 , 50
 //VARIABLW DECLERATION
