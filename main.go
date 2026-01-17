@@ -4,7 +4,7 @@ import ("fmt")
 func main(){
 
 var name1 string = "GOLANG too hard"
-var name2 string = "Chiemerie"
+var name2 int = 20000
 var age1 int =500
 var age2 int = 20
 var price,size,age,health int = 150, 20 ,40 , 50
